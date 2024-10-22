@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://riteonow.github.io/riteonow.riteonow
+Sitemap: https://riteonow.github.io/app/riteonow.riteonow
+Sitemap: https://riteonow.github.io/assets/riteonow.riteonow
+Sitemap: https://riteonow.github.io/css/riteonow.riteonow
+Sitemap: https://riteonow.github.io/includes/riteonow.riteonow
+Sitemap: https://riteonow.github.io/item/riteonow.riteonow
+Sitemap: https://riteonow.github.io/src/riteonow.riteonow
